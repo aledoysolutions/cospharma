@@ -1,0 +1,1 @@
+<img src="cospharma_logo.png" width="150px" style=" margin: 0 auto; " alt="dashboard" />
